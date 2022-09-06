@@ -4,9 +4,7 @@ CRUD e listagem de eletrodomesticos.
 
 <strong>Tecnologias</strong>
 <ul>
-  <li>Vue 3</li>
-  <li>Vuex</li>
-  <li>Vue Router</li>
+  <li>Vue 3, Vuex, Vue Router</li>
   <li>Axios</li>
   <li>Firebase</li>
 </ul>
