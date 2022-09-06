@@ -1,5 +1,15 @@
 # applience
 
+CRUD e listagem de eletrodomesticos.
+
+<strong>Tecnologias</strong>
+<ul>
+  <li>Vue 3</li>
+  <li>Vuex</li>
+  <li>Vue Router</li>
+  <li>Axios</li>
+  <li>Firebase</li>
+</ul>
 <h2> Visualização em produção </h2> 
 
 https://lucasleitche.github.io/applience/
